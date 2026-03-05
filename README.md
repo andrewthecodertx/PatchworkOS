@@ -18,7 +18,7 @@
         <img src="https://github.com/KaiNorberg/PatchworkOS/actions/workflows/test.yml/badge.svg" alt="Build and Test"/>
     </a>
     <br>
-    <i>PatchworkOS is currently in a very early stage of development, and may have both known and unknown bugs.</i>
+    <i>PatchworkOS is currently undergoing a major rewrite, see the develop branch for more information.</i>
 </div>
 <br>
 
